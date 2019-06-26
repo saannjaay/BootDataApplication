@@ -33,6 +33,7 @@ public class AdminController {
 	public String message() {
 		logger.info("GetMapping");
 		System.out.println("Hello");
+		sy
 
 		return "Welcome Admin";
 
